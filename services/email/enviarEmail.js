@@ -36,8 +36,8 @@ exports.enviarEmail = ()=>{
                     port: 587, 
                     secure:false,
                     auth:{
-                        user:"jorgerojas1cc@gmail.com",
-                        pass:"Hunder54"
+                        user:"",
+                        pass:""
                     },
                     tls:{
                         rejectUnauthorized: false
